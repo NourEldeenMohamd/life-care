@@ -43,9 +43,6 @@ $(function () {
 	})
 
 
-	console.log($("#doctors").offset().top)
-
-
 	// Hide Placeholder On Focus
 	var placeAttr = "";
 
