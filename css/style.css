@@ -205,10 +205,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
   padding: 14px 0;
 }
 
-
-
-
-
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
   header .navbar-top .logo-site {
@@ -315,15 +311,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
   }
 }
 
-
-
-
-
-
-
-
-
-
 /* --------------------------- */
 /* 3.2 - Home Section */
 #home {
@@ -354,18 +341,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
   margin-left: 5px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
   #home {
@@ -387,21 +362,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
     font-size: 45px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* --------------------------- */
 /* 3.3 - Time Table Section */
@@ -471,11 +431,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
   margin: 0 20px;
 }
 
-
-
-
-
-
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
   #time-table {
@@ -521,10 +476,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
     display: none;
   }
 }
-
-
-
-
 
 /* --------------------------- */
 /* 3.4 - About Section */
@@ -607,9 +558,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
   font-size: 16px;
 }
 
-
-
-
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
   #about .post-media {
@@ -645,13 +593,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
     margin-top: 25px;
   }
 }
-
-
-
-
-
-
-
 
 /* --------------------------- */
 /* 3.5 - Servicer Section */
@@ -841,12 +782,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
   background: linear-gradient(to left, var(--secondColor) 0%, #1d86df 100%);
 }
 
-
-
-
-
-
-
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
   #price .price-table {
@@ -867,15 +802,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
     margin-top: 25px !important;
   }
 }
-
-
-
-
-
-
-
-
-
 
 /* --------------------------- */
 /* 3.8 - Testimonials Section */
@@ -984,11 +910,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
   background: linear-gradient(to right, var(--secondColor) 0%, #1d86df 100%);
 }
 
-
-
-
-
-
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
   #contact .contact-us {
@@ -1002,12 +923,6 @@ header .navbar-top .header-info .info-inner .info-link:hover{
     min-height: 580px;
   }
 } 
-
-
-
-
-
-
 
 /* --------------------------- */
 /* 3.10 - Footer Section  */
@@ -1101,79 +1016,4 @@ footer .subscript .input-group-append .fa-paper-plane:hover {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-
-
-
-
-
-
-
-
-
-
-
-/* // Extra small devices (portrait phones, less than 576px) */
-@media (max-width: 575.98px) { 
-  header {}
-  #home {}
-  #time-table {}
-  #about {}
-  #servicer {}
-  #doctors {}
-  #price {}
-  #testimonials {}
-  #contact {}
-}
-
-/* // Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) and (max-width: 767.98px) { 
-  header {}
-  #home {}
-  #time-table {}
-  #about {}
-  #servicer {}
-  #doctors {}
-  #price {}
-  #testimonials {}
-  #contact {}
-}
-
-/* // Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) and (max-width: 991.98px) { 
-  header {}
-  #home {}
-  #time-table {}
-  #about {}
-  #servicer {}
-  #doctors {}
-  #price {}
-  #testimonials {}
-  #contact {}
-}
-
-/* // Large devices (desktops, 992px and up) */
-@media (min-width: 992px) and (max-width: 1199.98px) { 
-  header {}
-  #home {}
-  #time-table {}
-  #about {}
-  #servicer {}
-  #doctors {}
-  #price {}
-  #testimonials {}
-  #contact {}
-}
-
-/* // Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) { 
-  header {}
-  #home {}
-  #time-table {}
-  #about {}
-  #servicer {}
-  #doctors {}
-  #price {}
-  #testimonials {}
-  #contact {}
 }
